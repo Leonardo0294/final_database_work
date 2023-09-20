@@ -1,0 +1,23 @@
+Establecimiento Educativo:
+
+    Nombre: NEP Y FP Nº 28 - EX EDIFICIO EPEP Nº 199
+    Jurisdicción: Formosa
+    Sector: Estatal
+    Ámbito: Rural
+    Departamento: PATIÑO
+    Código de Departamento: 34035
+    Localidad: COLONIA BARTOLOME DE LAS CASAS
+    Código de Localidad: 34035619
+    Cueanexo: 340002200
+    Domicilio: COLONIA ABORIGEN B.DE LAS CASAS
+    Código Postal: P3622
+    Teléfono: 03704 507863
+    Correo Electrónico (Directora): mamibotini65@hotmail.com
+    Adultos: 1
+    Formación Profesional - INET: 1
+
+Tipo de Establecimiento:
+
+    Primario (Código 102): Sí
+    Secundaria (Código 110): No
+    Terciario (Código 115): No

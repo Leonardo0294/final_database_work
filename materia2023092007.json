@@ -1,0 +1,1155 @@
+[{
+  "_id": "Fsa2311001101",
+  "plan_id": "Fsa2311001",
+  "espacio": "Matemática 1"
+},
+{
+  "_id": "Fsa2311001102",
+  "plan_id": "Fsa2311001",
+  "espacio": "Lengua 1"
+},
+{
+  "_id": "Fsa2311001103",
+  "plan_id": "Fsa2311001",
+  "espacio": "Biología 1"
+},
+{
+  "_id": "Fsa2311001104",
+  "plan_id": "Fsa2311001",
+  "espacio": "Ciencias Físco-Químicas 1"
+},
+{
+  "_id": "Fsa2311001105",
+  "plan_id": "Fsa2311001",
+  "espacio": "Formación Ética y Ciudadana 1"
+},
+{
+  "_id": "Fsa2311001106",
+  "plan_id": "Fsa2311001",
+  "espacio": "Lengua Extranjera 1"
+},
+{
+  "_id": "Fsa2311001107",
+  "plan_id": "Fsa2311001",
+  "espacio": "Geografía 1"
+},
+{
+  "_id": "Fsa2311001108",
+  "plan_id": "Fsa2311001",
+  "espacio": "Historia 1"
+},
+{
+  "_id": "Fsa2311001109",
+  "plan_id": "Fsa2311001",
+  "espacio": "Lenguaje Artístico Combinado 1"
+},
+{
+  "_id": "Fsa2311001110",
+  "plan_id": "Fsa2311001",
+  "espacio": "Tecnología 1"
+},
+{
+  "_id": "Fsa2311001111",
+  "plan_id": "Fsa2311001",
+  "espacio": "Educación Física 1"
+},
+{
+  "_id": "Fsa2311001112",
+  "plan_id": "Fsa2311001",
+  "espacio": "Opción Institucional 1"
+},
+{
+  "_id": "Fsa2311001201",
+  "plan_id": "Fsa2311001",
+  "espacio": "Matemática 2"
+},
+{
+  "_id": "Fsa2311001202",
+  "plan_id": "Fsa2311001",
+  "espacio": "Lengua 2"
+},
+{
+  "_id": "Fsa2311001203",
+  "plan_id": "Fsa2311001",
+  "espacio": "Biología 2"
+},
+{
+  "_id": "Fsa2311001204",
+  "plan_id": "Fsa2311001",
+  "espacio": "Ciencias Físco-Químicas 2"
+},
+{
+  "_id": "Fsa2311001205",
+  "plan_id": "Fsa2311001",
+  "espacio": "Formación Ética y Ciudadana 2"
+},
+{
+  "_id": "Fsa2311001206",
+  "plan_id": "Fsa2311001",
+  "espacio": "Lengua Extranjera 2"
+},
+{
+  "_id": "Fsa2311001207",
+  "plan_id": "Fsa2311001",
+  "espacio": "Geografía 2"
+},
+{
+  "_id": "Fsa2311001208",
+  "plan_id": "Fsa2311001",
+  "espacio": "Historia 2"
+},
+{
+  "_id": "Fsa2311001209",
+  "plan_id": "Fsa2311001",
+  "espacio": "Lenguaje Artístico Combinado 2"
+},
+{
+  "_id": "Fsa2311001210",
+  "plan_id": "Fsa2311001",
+  "espacio": "Tecnología 2"
+},
+{
+  "_id": "Fsa2311001211",
+  "plan_id": "Fsa2311001",
+  "espacio": "Educación Física 2"
+},
+{
+  "_id": "Fsa2311001212",
+  "plan_id": "Fsa2311001",
+  "espacio": "Opción Institucional 2"
+},
+{
+  "_id": "Fsa2311001301",
+  "plan_id": "Fsa2311001",
+  "espacio": "Matemática 3"
+},
+{
+  "_id": "Fsa2311001302",
+  "plan_id": "Fsa2311001",
+  "espacio": "Lengua 3"
+},
+{
+  "_id": "Fsa2311001303",
+  "plan_id": "Fsa2311001",
+  "espacio": "Biología 3"
+},
+{
+  "_id": "Fsa2311001304",
+  "plan_id": "Fsa2311001",
+  "espacio": "Ciencias Físco-Químicas 3"
+},
+{
+  "_id": "Fsa2311001305",
+  "plan_id": "Fsa2311001",
+  "espacio": "Formación Ética y Ciudadana 3"
+},
+{
+  "_id": "Fsa2311001306",
+  "plan_id": "Fsa2311001",
+  "espacio": "Lengua Extranjera 3"
+},
+{
+  "_id": "Fsa2311001307",
+  "plan_id": "Fsa2311001",
+  "espacio": "Geografía 3"
+},
+{
+  "_id": "Fsa2311001308",
+  "plan_id": "Fsa2311001",
+  "espacio": "Historia 3"
+},
+{
+  "_id": "Fsa2311001309",
+  "plan_id": "Fsa2311001",
+  "espacio": "Lenguaje Artístico Combinado 3"
+},
+{
+  "_id": "Fsa2311001310",
+  "plan_id": "Fsa2311001",
+  "espacio": "Tecnología 3"
+},
+{
+  "_id": "Fsa2311001311",
+  "plan_id": "Fsa2311001",
+  "espacio": "Educación Física 3"
+},
+{
+  "_id": "Fsa2311001312",
+  "plan_id": "Fsa2311001",
+  "espacio": "Opción Institucional 3"
+},
+{
+  "_id": "Fsa2311011401",
+  "plan_id": "Fsa2311011",
+  "espacio": "Lengua y Literatura"
+},
+{
+  "_id": "Fsa2311011402",
+  "plan_id": "Fsa2311011",
+  "espacio": "Lengua extranjera"
+},
+{
+  "_id": "Fsa2311011403",
+  "plan_id": "Fsa2311011",
+  "espacio": "Matemática"
+},
+{
+  "_id": "Fsa2311011404",
+  "plan_id": "Fsa2311011",
+  "espacio": "Educación Física"
+},
+{
+  "_id": "Fsa2311011405",
+  "plan_id": "Fsa2311011",
+  "espacio": "Ciencias Políticas"
+},
+{
+  "_id": "Fsa2311011406",
+  "plan_id": "Fsa2311011",
+  "espacio": "Formación Ética y Ciudadana"
+},
+{
+  "_id": "Fsa2311011407",
+  "plan_id": "Fsa2311011",
+  "espacio": "Física"
+},
+{
+  "_id": "Fsa2311011408",
+  "plan_id": "Fsa2311011",
+  "espacio": "Tecnología de Gestión"
+},
+{
+  "_id": "Fsa2311011409",
+  "plan_id": "Fsa2311011",
+  "espacio": "Lenguaje Artístico y Comunicacional"
+},
+{
+  "_id": "Fsa2311011410",
+  "plan_id": "Fsa2311011",
+  "espacio": "EDI-Constitución Nacional"
+},
+{
+  "_id": "Fsa2311011411",
+  "plan_id": "Fsa2311011",
+  "espacio": "Psicología"
+},
+{
+  "_id": "Fsa2311011412",
+  "plan_id": "Fsa2311011",
+  "espacio": "Filosofía"
+},
+{
+  "_id": "Fsa2311011413",
+  "plan_id": "Fsa2311011",
+  "espacio": "Biología"
+},
+{
+  "_id": "Fsa2311011501",
+  "plan_id": "Fsa2311011",
+  "espacio": "Lengua y Literatura"
+},
+{
+  "_id": "Fsa2311011502",
+  "plan_id": "Fsa2311011",
+  "espacio": "Lengua extranjera"
+},
+{
+  "_id": "Fsa2311011503",
+  "plan_id": "Fsa2311011",
+  "espacio": "Matemática 2"
+},
+{
+  "_id": "Fsa2311011504",
+  "plan_id": "Fsa2311011",
+  "espacio": "Educación Física"
+},
+{
+  "_id": "Fsa2311011505",
+  "plan_id": "Fsa2311011",
+  "espacio": "Ciencias Políticas"
+},
+{
+  "_id": "Fsa2311011506",
+  "plan_id": "Fsa2311011",
+  "espacio": "Formación Ética y Ciudadana"
+},
+{
+  "_id": "Fsa2311011507",
+  "plan_id": "Fsa2311011",
+  "espacio": "Física"
+},
+{
+  "_id": "Fsa2311011508",
+  "plan_id": "Fsa2311011",
+  "espacio": "Tecnología de Gestión"
+},
+{
+  "_id": "Fsa2311011509",
+  "plan_id": "Fsa2311011",
+  "espacio": "Lenguaje Artístico y Comunicacional"
+},
+{
+  "_id": "Fsa2311011510",
+  "plan_id": "Fsa2311011",
+  "espacio": "EDI-Derecho del Trabajo"
+},
+{
+  "_id": "Fsa2311011511",
+  "plan_id": "Fsa2311011",
+  "espacio": "Psicología"
+},
+{
+  "_id": "Fsa2311011512",
+  "plan_id": "Fsa2311011",
+  "espacio": "Filosofía"
+},
+{
+  "_id": "Fsa2311011513",
+  "plan_id": "Fsa2311011",
+  "espacio": "Biología"
+},
+{
+  "_id": "Fsa2311011601",
+  "plan_id": "Fsa2311011",
+  "espacio": "Comunicación"
+},
+{
+  "_id": "Fsa2311011602",
+  "plan_id": "Fsa2311011",
+  "espacio": "Lengua extranjera"
+},
+{
+  "_id": "Fsa2311011603",
+  "plan_id": "Fsa2311011",
+  "espacio": "Economía"
+},
+{
+  "_id": "Fsa2311011604",
+  "plan_id": "Fsa2311011",
+  "espacio": "Educación Física"
+},
+{
+  "_id": "Fsa2311011605",
+  "plan_id": "Fsa2311011",
+  "espacio": "Ciencias Políticas"
+},
+{
+  "_id": "Fsa2311011606",
+  "plan_id": "Fsa2311011",
+  "espacio": "Proyecto de Investigación e Intervención Sociocomunitaria"
+},
+{
+  "_id": "Fsa2311011607",
+  "plan_id": "Fsa2311011",
+  "espacio": "Física"
+},
+{
+  "_id": "Fsa2311011608",
+  "plan_id": "Fsa2311011",
+  "espacio": "Tecnología de Gestión"
+},
+{
+  "_id": "Fsa2311011609",
+  "plan_id": "Fsa2311011",
+  "espacio": "Lenguaje Artístico y Comunicacional"
+},
+{
+  "_id": "Fsa2311011610",
+  "plan_id": "Fsa2311011",
+  "espacio": "EDI-Naciones Unidas"
+},
+{
+  "_id": "Fsa2311011611",
+  "plan_id": "Fsa2311011",
+  "espacio": "Psicología"
+},
+{
+  "_id": "Fsa2311011612",
+  "plan_id": "Fsa2311011",
+  "espacio": "Filosofía"
+},
+{
+  "_id": "Fsa2311011613",
+  "plan_id": "Fsa2311011",
+  "espacio": "Biología"
+},
+{
+  "_id": "Fsa2311012401",
+  "plan_id": "Fsa2311012",
+  "espacio": "Lengua y Literatura"
+},
+{
+  "_id": "Fsa2311012402",
+  "plan_id": "Fsa2311012",
+  "espacio": "Lengua extranjera"
+},
+{
+  "_id": "Fsa2311012403",
+  "plan_id": "Fsa2311012",
+  "espacio": "Matemática"
+},
+{
+  "_id": "Fsa2311012404",
+  "plan_id": "Fsa2311012",
+  "espacio": "Educación Física"
+},
+{
+  "_id": "Fsa2311012405",
+  "plan_id": "Fsa2311012",
+  "espacio": "Ciencias Políticas"
+},
+{
+  "_id": "Fsa2311012406",
+  "plan_id": "Fsa2311012",
+  "espacio": "Formación Ética y Ciudadana"
+},
+{
+  "_id": "Fsa2311012407",
+  "plan_id": "Fsa2311012",
+  "espacio": "Química"
+},
+{
+  "_id": "Fsa2311012408",
+  "plan_id": "Fsa2311012",
+  "espacio": "Tecnología de Gestión"
+},
+{
+  "_id": "Fsa2311012409",
+  "plan_id": "Fsa2311012",
+  "espacio": "Lenguaje Artístico y Comunicacional"
+},
+{
+  "_id": "Fsa2311012410",
+  "plan_id": "Fsa2311012",
+  "espacio": "EDI-Constitución Nacional"
+},
+{
+  "_id": "Fsa2311012411",
+  "plan_id": "Fsa2311012",
+  "espacio": "Psicología"
+},
+{
+  "_id": "Fsa2311012412",
+  "plan_id": "Fsa2311012",
+  "espacio": "Filosofía"
+},
+{
+  "_id": "Fsa2311012413",
+  "plan_id": "Fsa2311012",
+  "espacio": "Biología"
+},
+{
+  "_id": "Fsa2311012501",
+  "plan_id": "Fsa2311012",
+  "espacio": "Lengua y Literatura"
+},
+{
+  "_id": "Fsa2311012502",
+  "plan_id": "Fsa2311012",
+  "espacio": "Lengua extranjera"
+},
+{
+  "_id": "Fsa2311012503",
+  "plan_id": "Fsa2311012",
+  "espacio": "Matemática 2"
+},
+{
+  "_id": "Fsa2311012504",
+  "plan_id": "Fsa2311012",
+  "espacio": "Educación Física"
+},
+{
+  "_id": "Fsa2311012505",
+  "plan_id": "Fsa2311012",
+  "espacio": "Ciencias Políticas"
+},
+{
+  "_id": "Fsa2311012506",
+  "plan_id": "Fsa2311012",
+  "espacio": "Formación Ética y Ciudadana"
+},
+{
+  "_id": "Fsa2311012507",
+  "plan_id": "Fsa2311012",
+  "espacio": "Química"
+},
+{
+  "_id": "Fsa2311012508",
+  "plan_id": "Fsa2311012",
+  "espacio": "Tecnología de Gestión"
+},
+{
+  "_id": "Fsa2311012509",
+  "plan_id": "Fsa2311012",
+  "espacio": "Lenguaje Artístico y Comunicacional"
+},
+{
+  "_id": "Fsa2311012510",
+  "plan_id": "Fsa2311012",
+  "espacio": "EDI-Derecho Civil-Parte General"
+},
+{
+  "_id": "Fsa2311012511",
+  "plan_id": "Fsa2311012",
+  "espacio": "Psicología"
+},
+{
+  "_id": "Fsa2311012512",
+  "plan_id": "Fsa2311012",
+  "espacio": "Filosofía"
+},
+{
+  "_id": "Fsa2311012513",
+  "plan_id": "Fsa2311012",
+  "espacio": "Biología"
+},
+{
+  "_id": "Fsa2311012601",
+  "plan_id": "Fsa2311012",
+  "espacio": "Comunicación"
+},
+{
+  "_id": "Fsa2311012602",
+  "plan_id": "Fsa2311012",
+  "espacio": "Lengua extranjera"
+},
+{
+  "_id": "Fsa2311012603",
+  "plan_id": "Fsa2311012",
+  "espacio": "Economía"
+},
+{
+  "_id": "Fsa2311012604",
+  "plan_id": "Fsa2311012",
+  "espacio": "Educación Física"
+},
+{
+  "_id": "Fsa2311012605",
+  "plan_id": "Fsa2311012",
+  "espacio": "Ciencias Políticas"
+},
+{
+  "_id": "Fsa2311012606",
+  "plan_id": "Fsa2311012",
+  "espacio": "Proyecto de Investigación e Intervención Sociocomunitaria"
+},
+{
+  "_id": "Fsa2311012607",
+  "plan_id": "Fsa2311012",
+  "espacio": "Sociología"
+},
+{
+  "_id": "Fsa2311012608",
+  "plan_id": "Fsa2311012",
+  "espacio": "Tecnología de Gestión"
+},
+{
+  "_id": "Fsa2311012609",
+  "plan_id": "Fsa2311012",
+  "espacio": "Lenguaje Artístico y Comunicacional"
+},
+{
+  "_id": "Fsa2311012610",
+  "plan_id": "Fsa2311012",
+  "espacio": "EDI-Derecho Administrativo"
+},
+{
+  "_id": "Fsa2311012611",
+  "plan_id": "Fsa2311012",
+  "espacio": "Psicología"
+},
+{
+  "_id": "Fsa2311012612",
+  "plan_id": "Fsa2311012",
+  "espacio": "Filosofía"
+},
+{
+  "_id": "Fsa2311012613",
+  "plan_id": "Fsa2311012",
+  "espacio": "Biología"
+},
+{
+  "_id": "Fsa2311013401",
+  "plan_id": "Fsa2311013",
+  "espacio": "Lengua y Literatura"
+},
+{
+  "_id": "Fsa2311013402",
+  "plan_id": "Fsa2311013",
+  "espacio": "Lengua extranjera"
+},
+{
+  "_id": "Fsa2311013403",
+  "plan_id": "Fsa2311013",
+  "espacio": "Matemática"
+},
+{
+  "_id": "Fsa2311013404",
+  "plan_id": "Fsa2311013",
+  "espacio": "Educación Física"
+},
+{
+  "_id": "Fsa2311013405",
+  "plan_id": "Fsa2311013",
+  "espacio": "Física"
+},
+{
+  "_id": "Fsa2311013406",
+  "plan_id": "Fsa2311013",
+  "espacio": "Formación Ética y Ciudadana"
+},
+{
+  "_id": "Fsa2311013407",
+  "plan_id": "Fsa2311013",
+  "espacio": "Química"
+},
+{
+  "_id": "Fsa2311013408",
+  "plan_id": "Fsa2311013",
+  "espacio": "Tecnología de Gestión"
+},
+{
+  "_id": "Fsa2311013409",
+  "plan_id": "Fsa2311013",
+  "espacio": "Lenguaje Artístico y Comunicacional"
+},
+{
+  "_id": "Fsa2311013410",
+  "plan_id": "Fsa2311013",
+  "espacio": "EDI-Anatomía 1"
+},
+{
+  "_id": "Fsa2311013411",
+  "plan_id": "Fsa2311013",
+  "espacio": "Salud 1"
+},
+{
+  "_id": "Fsa2311013412",
+  "plan_id": "Fsa2311013",
+  "espacio": "Matemática Aplicada"
+},
+{
+  "_id": "Fsa2311013413",
+  "plan_id": "Fsa2311013",
+  "espacio": "Biología"
+},
+{
+  "_id": "Fsa2311013501",
+  "plan_id": "Fsa2311013",
+  "espacio": "Lengua y Literatura"
+},
+{
+  "_id": "Fsa2311013502",
+  "plan_id": "Fsa2311013",
+  "espacio": "Lengua extranjera"
+},
+{
+  "_id": "Fsa2311013503",
+  "plan_id": "Fsa2311013",
+  "espacio": "Matemática 2"
+},
+{
+  "_id": "Fsa2311013504",
+  "plan_id": "Fsa2311013",
+  "espacio": "Educación Física"
+},
+{
+  "_id": "Fsa2311013505",
+  "plan_id": "Fsa2311013",
+  "espacio": "Física"
+},
+{
+  "_id": "Fsa2311013506",
+  "plan_id": "Fsa2311013",
+  "espacio": "Formación Ética y Ciudadana"
+},
+{
+  "_id": "Fsa2311013507",
+  "plan_id": "Fsa2311013",
+  "espacio": "Química"
+},
+{
+  "_id": "Fsa2311013508",
+  "plan_id": "Fsa2311013",
+  "espacio": "Tecnología de Gestión"
+},
+{
+  "_id": "Fsa2311013509",
+  "plan_id": "Fsa2311013",
+  "espacio": "Lenguaje Artístico y Comunicacional"
+},
+{
+  "_id": "Fsa2311013510",
+  "plan_id": "Fsa2311013",
+  "espacio": "EDI-Sistemas: circulatorio - digestivo - nervioso - muscular"
+},
+{
+  "_id": "Fsa2311013511",
+  "plan_id": "Fsa2311013",
+  "espacio": "Tecnología de la información y de la comunicación"
+},
+{
+  "_id": "Fsa2311013512",
+  "plan_id": "Fsa2311013",
+  "espacio": "Ambiente y Sociedad"
+},
+{
+  "_id": "Fsa2311013513",
+  "plan_id": "Fsa2311013",
+  "espacio": "Proyecto de Investigación e Intervención sociocomunitaria-Educacón sexual - buenas prácticas de alimentación"
+},
+{
+  "_id": "Fsa2311013601",
+  "plan_id": "Fsa2311013",
+  "espacio": "Comunicación"
+},
+{
+  "_id": "Fsa2311013602",
+  "plan_id": "Fsa2311013",
+  "espacio": "Lengua extranjera"
+},
+{
+  "_id": "Fsa2311013603",
+  "plan_id": "Fsa2311013",
+  "espacio": "Geografía"
+},
+{
+  "_id": "Fsa2311013604",
+  "plan_id": "Fsa2311013",
+  "espacio": "Educación Física"
+},
+{
+  "_id": "Fsa2311013605",
+  "plan_id": "Fsa2311013",
+  "espacio": "Física"
+},
+{
+  "_id": "Fsa2311013606",
+  "plan_id": "Fsa2311013",
+  "espacio": "Proyecto de Investigación e Intervención Sociocomunitaria"
+},
+{
+  "_id": "Fsa2311013607",
+  "plan_id": "Fsa2311013",
+  "espacio": "Bilogía"
+},
+{
+  "_id": "Fsa2311013608",
+  "plan_id": "Fsa2311013",
+  "espacio": "Tecnología de Gestión"
+},
+{
+  "_id": "Fsa2311013609",
+  "plan_id": "Fsa2311013",
+  "espacio": "Psicología"
+},
+{
+  "_id": "Fsa2311013610",
+  "plan_id": "Fsa2311013",
+  "espacio": "EDI-Sistemas: itegumentario - esquelético - endócrino - cardiovascular - linfático - digestivo - excretor - reproductor"
+},
+{
+  "_id": "Fsa2311013611",
+  "plan_id": "Fsa2311013",
+  "espacio": "Tecnología de la información y de la comunicación"
+},
+{
+  "_id": "Fsa2311013612",
+  "plan_id": "Fsa2311013",
+  "espacio": "Ambiente y Sociedad"
+},
+{
+  "_id": "Fsa2311013613",
+  "plan_id": "Fsa2311013",
+  "espacio": "Proyecto de Investigación e Intervención sociocomunitaria-Socializar ETS"
+},
+{
+  "_id": "Fsa2311014401",
+  "plan_id": "Fsa2311014",
+  "espacio": "Lengua y Literatura"
+},
+{
+  "_id": "Fsa2311014402",
+  "plan_id": "Fsa2311014",
+  "espacio": "Lengua extranjera"
+},
+{
+  "_id": "Fsa2311014403",
+  "plan_id": "Fsa2311014",
+  "espacio": "Matemática"
+},
+{
+  "_id": "Fsa2311014404",
+  "plan_id": "Fsa2311014",
+  "espacio": "Educación Física"
+},
+{
+  "_id": "Fsa2311014405",
+  "plan_id": "Fsa2311014",
+  "espacio": "Física y astronomía"
+},
+{
+  "_id": "Fsa2311014406",
+  "plan_id": "Fsa2311014",
+  "espacio": "Formación Ética y Ciudadana"
+},
+{
+  "_id": "Fsa2311014407",
+  "plan_id": "Fsa2311014",
+  "espacio": "Química"
+},
+{
+  "_id": "Fsa2311014408",
+  "plan_id": "Fsa2311014",
+  "espacio": "Tecnología de Gestión"
+},
+{
+  "_id": "Fsa2311014409",
+  "plan_id": "Fsa2311014",
+  "espacio": "Lenguaje Artístico y Comunicacional"
+},
+{
+  "_id": "Fsa2311014410",
+  "plan_id": "Fsa2311014",
+  "espacio": "EDI-Anatomía 1"
+},
+{
+  "_id": "Fsa2311014411",
+  "plan_id": "Fsa2311014",
+  "espacio": "Salud 1"
+},
+{
+  "_id": "Fsa2311014412",
+  "plan_id": "Fsa2311014",
+  "espacio": "Matemática Aplicada"
+},
+{
+  "_id": "Fsa2311014413",
+  "plan_id": "Fsa2311014",
+  "espacio": "Biología"
+},
+{
+  "_id": "Fsa2311014501",
+  "plan_id": "Fsa2311014",
+  "espacio": "Lengua y Literatura"
+},
+{
+  "_id": "Fsa2311014502",
+  "plan_id": "Fsa2311014",
+  "espacio": "Lengua extranjera"
+},
+{
+  "_id": "Fsa2311014503",
+  "plan_id": "Fsa2311014",
+  "espacio": "Matemática 2"
+},
+{
+  "_id": "Fsa2311014504",
+  "plan_id": "Fsa2311014",
+  "espacio": "Educación Física"
+},
+{
+  "_id": "Fsa2311014505",
+  "plan_id": "Fsa2311014",
+  "espacio": "Física y astronomía"
+},
+{
+  "_id": "Fsa2311014506",
+  "plan_id": "Fsa2311014",
+  "espacio": "Formación Ética y Ciudadana"
+},
+{
+  "_id": "Fsa2311014507",
+  "plan_id": "Fsa2311014",
+  "espacio": "Química"
+},
+{
+  "_id": "Fsa2311014508",
+  "plan_id": "Fsa2311014",
+  "espacio": "Tecnología de Gestión"
+},
+{
+  "_id": "Fsa2311014509",
+  "plan_id": "Fsa2311014",
+  "espacio": "Lenguaje Artístico y Comunicacional"
+},
+{
+  "_id": "Fsa2311014510",
+  "plan_id": "Fsa2311014",
+  "espacio": "EDI-Sistemas: circulatorio - digestivo - nervioso - muscular"
+},
+{
+  "_id": "Fsa2311014511",
+  "plan_id": "Fsa2311014",
+  "espacio": "Tecnología de la información y de la comunicación"
+},
+{
+  "_id": "Fsa2311014512",
+  "plan_id": "Fsa2311014",
+  "espacio": "Ambiente y Sociedad"
+},
+{
+  "_id": "Fsa2311014513",
+  "plan_id": "Fsa2311014",
+  "espacio": "Proyecto de Investigación e Intervención sociocomunitaria-Educacón sexual - buenas prácticas de alimentación"
+},
+{
+  "_id": "Fsa2311014601",
+  "plan_id": "Fsa2311014",
+  "espacio": "Comunicación"
+},
+{
+  "_id": "Fsa2311014602",
+  "plan_id": "Fsa2311014",
+  "espacio": "Lengua extranjera"
+},
+{
+  "_id": "Fsa2311014603",
+  "plan_id": "Fsa2311014",
+  "espacio": "Economía"
+},
+{
+  "_id": "Fsa2311014604",
+  "plan_id": "Fsa2311014",
+  "espacio": "Educación Física"
+},
+{
+  "_id": "Fsa2311014605",
+  "plan_id": "Fsa2311014",
+  "espacio": "Física y astronomía"
+},
+{
+  "_id": "Fsa2311014606",
+  "plan_id": "Fsa2311014",
+  "espacio": "Geografía"
+},
+{
+  "_id": "Fsa2311014607",
+  "plan_id": "Fsa2311014",
+  "espacio": "Bilogía"
+},
+{
+  "_id": "Fsa2311014608",
+  "plan_id": "Fsa2311014",
+  "espacio": "Tecnología de Gestión"
+},
+{
+  "_id": "Fsa2311014609",
+  "plan_id": "Fsa2311014",
+  "espacio": "Psicología"
+},
+{
+  "_id": "Fsa2311014610",
+  "plan_id": "Fsa2311014",
+  "espacio": "EDI-Sistemas: itegumentario - esquelético - endócrino - cardiovascular - linfático - digestivo - excretor - reproductor"
+},
+{
+  "_id": "Fsa2311014611",
+  "plan_id": "Fsa2311014",
+  "espacio": "Tecnología de la información y de la comunicación"
+},
+{
+  "_id": "Fsa2311014612",
+  "plan_id": "Fsa2311014",
+  "espacio": "Ambiente y Sociedad"
+},
+{
+  "_id": "Fsa2311014613",
+  "plan_id": "Fsa2311014",
+  "espacio": "Proyecto de Investigación e Intervención sociocomunitaria-Socializar ETS"
+},
+{
+  "_id": "Fsa2311019401",
+  "plan_id": "Fsa2311019",
+  "espacio": "Lengua y Literatura"
+},
+{
+  "_id": "Fsa2311019402",
+  "plan_id": "Fsa2311019",
+  "espacio": "Lengua extranjera"
+},
+{
+  "_id": "Fsa2311019403",
+  "plan_id": "Fsa2311019",
+  "espacio": "Matemática"
+},
+{
+  "_id": "Fsa2311019404",
+  "plan_id": "Fsa2311019",
+  "espacio": "Educación Física"
+},
+{
+  "_id": "Fsa2311019405",
+  "plan_id": "Fsa2311019",
+  "espacio": "Historia"
+},
+{
+  "_id": "Fsa2311019406",
+  "plan_id": "Fsa2311019",
+  "espacio": "Formación Ética y Ciudadana"
+},
+{
+  "_id": "Fsa2311019407",
+  "plan_id": "Fsa2311019",
+  "espacio": "Física"
+},
+{
+  "_id": "Fsa2311019408",
+  "plan_id": "Fsa2311019",
+  "espacio": "Tecnología de Gestión"
+},
+{
+  "_id": "Fsa2311019409",
+  "plan_id": "Fsa2311019",
+  "espacio": "Lenguaje Artístico y Comunicacional"
+},
+{
+  "_id": "Fsa2311019410",
+  "plan_id": "Fsa2311019",
+  "espacio": "Cultura y Estética Contemporánea"
+},
+{
+  "_id": "Fsa2311019411",
+  "plan_id": "Fsa2311019",
+  "espacio": "Filosofía"
+},
+{
+  "_id": "Fsa2311019412",
+  "plan_id": "Fsa2311019",
+  "espacio": "Geografía"
+},
+{
+  "_id": "Fsa2311019413",
+  "plan_id": "Fsa2311019",
+  "espacio": "Biología"
+},
+{
+  "_id": "Fsa2311019501",
+  "plan_id": "Fsa2311019",
+  "espacio": "Lengua y Literatura"
+},
+{
+  "_id": "Fsa2311019502",
+  "plan_id": "Fsa2311019",
+  "espacio": "Lengua extranjera"
+},
+{
+  "_id": "Fsa2311019503",
+  "plan_id": "Fsa2311019",
+  "espacio": "Imágenes y contextos"
+},
+{
+  "_id": "Fsa2311019504",
+  "plan_id": "Fsa2311019",
+  "espacio": "Educación Física"
+},
+{
+  "_id": "Fsa2311019505",
+  "plan_id": "Fsa2311019",
+  "espacio": "Lenguajes"
+},
+{
+  "_id": "Fsa2311019506",
+  "plan_id": "Fsa2311019",
+  "espacio": "Formación Ética y Ciudadana"
+},
+{
+  "_id": "Fsa2311019507",
+  "plan_id": "Fsa2311019",
+  "espacio": "Diseño"
+},
+{
+  "_id": "Fsa2311019508",
+  "plan_id": "Fsa2311019",
+  "espacio": "Tecnología de Gestión"
+},
+{
+  "_id": "Fsa2311019509",
+  "plan_id": "Fsa2311019",
+  "espacio": "Lenguaje Artístico y Comunicacional"
+},
+{
+  "_id": "Fsa2311019510",
+  "plan_id": "Fsa2311019",
+  "espacio": "Cultura y Estética Contemporánea"
+},
+{
+  "_id": "Fsa2311019511",
+  "plan_id": "Fsa2311019",
+  "espacio": "EDI-Folklore Argentino-Rock Nacional"
+},
+{
+  "_id": "Fsa2311019512",
+  "plan_id": "Fsa2311019",
+  "espacio": "Lenguaje Multimedial"
+},
+{
+  "_id": "Fsa2311019513",
+  "plan_id": "Fsa2311019",
+  "espacio": "Industria Cultural"
+},
+{
+  "_id": "Fsa2311019601",
+  "plan_id": "Fsa2311019",
+  "espacio": "Lengua y Literatura"
+},
+{
+  "_id": "Fsa2311019602",
+  "plan_id": "Fsa2311019",
+  "espacio": "Lengua extranjera"
+},
+{
+  "_id": "Fsa2311019603",
+  "plan_id": "Fsa2311019",
+  "espacio": "Imágenes y contextos"
+},
+{
+  "_id": "Fsa2311019604",
+  "plan_id": "Fsa2311019",
+  "espacio": "Educación Física"
+},
+{
+  "_id": "Fsa2311019605",
+  "plan_id": "Fsa2311019",
+  "espacio": "Lenguajes"
+},
+{
+  "_id": "Fsa2311019606",
+  "plan_id": "Fsa2311019",
+  "espacio": "Formación Ética y Ciudadana"
+},
+{
+  "_id": "Fsa2311019607",
+  "plan_id": "Fsa2311019",
+  "espacio": "Diseño"
+},
+{
+  "_id": "Fsa2311019608",
+  "plan_id": "Fsa2311019",
+  "espacio": "Tecnología de Gestión"
+},
+{
+  "_id": "Fsa2311019609",
+  "plan_id": "Fsa2311019",
+  "espacio": "Lenguaje Artístico y Comunicacional"
+},
+{
+  "_id": "Fsa2311019610",
+  "plan_id": "Fsa2311019",
+  "espacio": "Cultura y Estética Contemporánea"
+},
+{
+  "_id": "Fsa2311019611",
+  "plan_id": "Fsa2311019",
+  "espacio": "EDI:Muralismo-Diseño gráfico-Música Urbana-Cumbia"
+},
+{
+  "_id": "Fsa2311019612",
+  "plan_id": "Fsa2311019",
+  "espacio": "Lenguaje Multimedial"
+},
+{
+  "_id": "Fsa2311019613",
+  "plan_id": "Fsa2311019",
+  "espacio": "Industria Cultural"
+}]
