@@ -303,6 +303,7 @@ const DataBarrios = {
 
 //Array modalidades asignadas a partir del 4to año de secundaria
 const DataModalidadesSecundaria = [
+<<<<<<< HEAD
   {
     name: "Cs. Sociales",
     materias: [
@@ -342,6 +343,14 @@ const DataModalidadesSecundaria = [
 ];
 
 
+=======
+  { name: "Cs. Sociales" },
+  { name: "Cs. Naturales" },
+  { name: "Economía y Comercio" },
+  { name: "Producción de Bienes y Servicios" },
+];
+
+>>>>>>> d8ab842dac10b12701075ccc4fa07000612ef986
 //Funcion obtener elemento aleatorio
 function obtenerElementoAleatorio(arr) {
   return arr[Math.floor(Math.random() * arr.length)];
@@ -362,6 +371,7 @@ function generarEdadAleatoria(nivel) {
   let edadMinima, edadMaxima;
   if (nivel === "Primaria") {
     edadMinima = 6;
+<<<<<<< HEAD
     edadMaxima = 11; // 6 años de primaria
   } else if (nivel === "Secundaria") {
     edadMinima = 12; // Inicio de secundaria
@@ -369,6 +379,15 @@ function generarEdadAleatoria(nivel) {
   } else {
     edadMinima = 18; // Inicio de terciario
     edadMaxima = 30;
+=======
+    edadMaxima = 12; // 6 años de primaria
+  } else if (nivel === "Secundaria") {
+    edadMinima = 13; // Inicio de secundaria
+    edadMaxima = 18; // Fin de secundaria
+  } else {
+    edadMinima = 18; // Inicio de terciario
+    edadMaxima = 60;
+>>>>>>> d8ab842dac10b12701075ccc4fa07000612ef986
   }
   return Math.floor(edadMinima + Math.random() * (edadMaxima - edadMinima + 1));
 }
@@ -452,8 +471,12 @@ function generarAlumno(usedDNIs) {
   };
 
   const domicilio = generarDomicilio(localidad.name);
+<<<<<<< HEAD
   // Generar el año de cursada aleatoriamente entre 2018 y 2019
   const añoCursada = Math.random() < 0.5 ? 2018 : 2019;
+=======
+
+>>>>>>> d8ab842dac10b12701075ccc4fa07000612ef986
   return {
     _id: dni,
     nombres: nombre,
@@ -467,7 +490,10 @@ function generarAlumno(usedDNIs) {
     modalidad: modalidad,
     notas: notas,
     establecimiento: establecimiento,
+<<<<<<< HEAD
     añoCursada: añoCursada,
+=======
+>>>>>>> d8ab842dac10b12701075ccc4fa07000612ef986
   };
 }
 
