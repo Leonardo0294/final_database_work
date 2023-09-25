@@ -9,3 +9,4 @@ export const dbConection = async () => {
     console.log("error conecting to database", error);
   }
 };
+export default {dbConection};
