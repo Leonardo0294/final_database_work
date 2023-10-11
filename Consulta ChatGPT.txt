@@ -1,0 +1,1 @@
+generame un array con 10 materias para la carrera "Técnico en Producción Agropecuaria", cada materia debe ser un objeto con las siguientes propiedades: "_id", "plan_id" que debe ser "Fsa2311031" y "espacio" que debe ser el nombre de la materia.

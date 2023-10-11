@@ -1,4 +1,4 @@
-# trabajo-integrador-mongo-db
+# fill-db-10k-ruchi
 
 ## Modelo de datos
 
@@ -33,3 +33,4 @@ Ejemplo del registro que devuelve este script
 }
 ```
 
+varrios clori 25 de Mayo, 1ro de Mayo, Porteño norte, porteño sur, 240 viviendas, Nazareno, 500 viviendas, Libertad, 140 viviendas

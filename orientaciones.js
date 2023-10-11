@@ -1,0 +1,373 @@
+export const DataMateriasModalidades = {
+    "Cs. Sociales": [
+        {
+            nombre: "Humanidades y Ciencias Sociales - Opción 1",
+            materias: [
+              "Lengua y Literatura",
+              "Lengua extranjera",
+              "Matemática",
+              "Educación Física",
+              "Ciencias Políticas",
+              "Formación Ética y Ciudadana",
+              "Física",
+              "Tecnología de Gestión",
+              "Lenguaje Artístico y Comunicacional",
+              "EDI-Constitución Nacional",
+              "Psicología",
+              "Filosofía",
+              "Biología",
+              "EDI-Derecho del Trabajo",
+              "Comunicación",
+              "Economía",
+              "Proyecto de Investigación e Intervención Sociocomunitaria",
+              "EDI-Naciones Unidas"
+            ]
+        },
+        {
+            nombre: "Humanidades y Ciencias Sociales - Opción 2",
+            materias: [
+              "Lengua y Literatura",
+              "Lengua extranjera",
+              "Matemática",
+              "Educación Física",
+              "Ciencias Políticas",
+              "Formación Ética y Ciudadana",
+              "Química",
+              "Tecnología de Gestión",
+              "Lenguaje Artístico y Comunicacional",
+              "EDI-Constitución Nacional",
+              "Psicología",
+              "Filosofía",
+              "Biología",
+              "EDI-Derecho Civil-Parte General",
+              "Comunicación",
+              "Economía",
+              "Proyecto de Investigación e Intervención Sociocomunitaria",
+              "Sociología",
+              "EDI-Derecho Administrativo"
+            ]
+        }
+    ],
+    "Cs. Naturales": [
+        {
+            nombre: "Ciencias Naturales - Opción 1",
+            materias: [
+              "Lengua y Literatura",
+              "Lengua extranjera",
+              "Matemática",
+              "Educación Física",
+              "Física",
+              "Formación Ética y Ciudadana",
+              "Química",
+              "Tecnología de Gestión",
+              "Lenguaje Artístico y Comunicacional",
+              "EDI-Anatomía",
+              "Salud",
+              "Matemática Aplicada",
+              "Biología",
+              "EDI-Sistemas: circulatorio - digestivo - nervioso - muscular",
+              "Tecnología de la información y de la comunicación",
+              "Ambiente y Sociedad",
+              "Proyecto de Investigación e Intervención sociocomunitaria-Educacón sexual - buenas prácticas de alimentación",
+              "Comunicación",
+              "Geografía",
+              "Proyecto de Investigación e Intervención Sociocomunitaria",
+              "Bilogía",
+              "Psicología",
+              "EDI-Sistemas: itegumentario - esquelético - endócrino - cardiovascular - linfático - digestivo - excretor - reproductor",
+              "Proyecto de Investigación e Intervención sociocomunitaria-Socializar ETS"
+            ]
+          },
+          {
+            nombre: "Ciencias Naturales - Opción 2",
+            materias: [
+              "Lengua y Literatura",
+              "Lengua extranjera",
+              "Matemática",
+              "Educación Física",
+              "Física y astronomía",
+              "Formación Ética y Ciudadana",
+              "Química",
+              "Tecnología de Gestión",
+              "Lenguaje Artístico y Comunicacional",
+              "EDI-Anatomía",
+              "Salud",
+              "Matemática Aplicada",
+              "Biología",
+              "EDI-Sistemas: circulatorio - digestivo - nervioso - muscular",
+              "Tecnología de la información y de la comunicación",
+              "Ambiente y Sociedad",
+              "Proyecto de Investigación e Intervención sociocomunitaria-Educacón sexual - buenas prácticas de alimentación",
+              "Comunicación",
+              "Economía",
+              "Geografía",
+              "Bilogía",
+              "Psicología",
+              "EDI-Sistemas: itegumentario - esquelético - endócrino - cardiovascular - linfático - digestivo - excretor - reproductor",
+              "Proyecto de Investigación e Intervención sociocomunitaria-Socializar ETS"
+            ]
+          }
+    ],
+    "Economía y Comercio": [
+        {
+            nombre: "Economía y Gestión de las Organizaciones - Opción 1",
+            materias: [
+                "Economía Microeconómica",
+                "Economía Macroeconómica",
+                "Contabilidad y Finanzas",
+                "Gestión de Recursos Humanos",
+                "Marketing y Ventas",
+                "Gestión de Proyectos",
+                "Derecho Empresarial",
+                "Ética Empresarial",
+                "Estrategia Empresarial",
+                "Proyecto de Gestión de Organizaciones"
+            ]
+        },
+        {
+            nombre: "Economía y Gestión de las Organizaciones - Opción 2",
+            materias: [
+                "Economía Microeconómica",
+                "Economía Macroeconómica",
+                "Contabilidad y Finanzas",
+                "Gestión de Recursos Humanos",
+                "Marketing y Ventas",
+                "Gestión de Proyectos",
+                "Derecho Empresarial",
+                "Ética Empresarial",
+                "Estrategia Empresarial",
+                "Proyecto de Gestión de Organizaciones"
+            ]
+        },
+        {
+            nombre: "Comercial Nocturno",
+            materias: [
+                "Gestión de Ventas",
+                "Marketing y Publicidad",
+                "Gestión de Almacenes",
+                "Logística Comercial",
+                "Comercio Electrónico",
+                "Derecho Comercial",
+                "Contabilidad de Negocios",
+                "Economía Empresarial",
+                "Planificación Estratégica",
+                "Proyecto de Negocios"
+            ]
+        }
+    ],
+    "Producción de Bienes y Servicios": [
+        {
+            nombre: "Producción de Bienes y Servicios - Opción 1",
+            materias: [
+              "Gestión de Operaciones",
+              "Calidad y Mejora Continua",
+              "Gestión de la Cadena de Suministro",
+              "Diseño de Productos y Servicios",
+              "Innovación y Desarrollo",
+              "Gestión de Proyectos",
+              "Marketing y Ventas",
+              "Gestión Financiera",
+              "Gestión de Recursos Humanos",
+              "Proyecto de Producción de Bienes y Servicios"
+            ]
+          },
+          {
+            nombre: "Producción de Bienes y Servicios - Opción 2",
+            materias: [
+              "Gestión de Operaciones",
+              "Calidad y Mejora Continua",
+              "Gestión de la Cadena de Suministro",
+              "Diseño de Productos y Servicios",
+              "Innovación y Desarrollo",
+              "Gestión de Proyectos",
+              "Marketing y Ventas",
+              "Gestión Financiera",
+              "Gestión de Recursos Humanos",
+              "Proyecto de Producción de Bienes y Servicios"
+            ]
+          }
+    ],
+    "Comunicación, Arte y Diseño": [
+        {
+            nombre: "Comunicación, Arte y Diseño",
+            materias: [
+              "Lengua y Literatura",
+              "Lengua extranjera",
+              "Matemática",
+              "Educación Física",
+              "Historia",
+              "Formación Ética y Ciudadana",
+              "Física",
+              "Tecnología de Gestión",
+              "Lenguaje Artístico y Comunicacional",
+              "Cultura y Estética Contemporánea",
+              "Filosofía",
+              "Geografía",
+              "Biología",
+              "Imágenes y contextos",
+              "Lenguajes",
+              "Diseño",
+              "EDI-Folklore Argentino-Rock Nacional",
+              "Lenguaje Multimedial",
+              "Industria Cultural",
+              "EDI:Muralismo-Diseño gráfico-Música Urbana-Cumbia"
+            ]
+        }
+    ],
+    "Ciclo Orientado Agroambiental": [
+        {
+            nombre: "Ciclo Secundario Orientado en Agro y Ambiente",
+            materias: [
+              "Biología Ambiental",
+              "Agricultura Sustentable",
+              "Ecología Agraria",
+              "Gestión de Recursos Naturales",
+              "Tecnología Agropecuaria",
+              "Sistemas de Riego",
+              "Educación Ambiental",
+              "Química Aplicada a la Agricultura",
+              "Desarrollo Sustentable",
+              "Proyecto de Agro y Ambiente"
+            ]
+          }
+    ]
+}
+
+
+const DataMaterias = [
+    {
+        nombre: "Técnico Mecánico",
+        materias: [
+            "Mecánica Básica",
+            "Termodinámica",
+            "Diseño Mecánico",
+            "Máquinas y Mecanismos",
+            "Mecánica de Fluidos",
+            "Control Automático",
+            "Dinámica de Máquinas",
+            "Mantenimiento Industrial",
+            "Fabricación Mecánica",
+            "Proyecto de Ingeniería Mecánica"
+        ]
+    },
+    {
+        nombre: "Técnico en Salud y Ambiente",
+        materias: [
+            "Biología Ambiental",
+            "Química Ambiental",
+            "Salud Pública",
+            "Epidemiología",
+            "Gestión Ambiental",
+            "Seguridad e Higiene Laboral",
+            "Contaminación del Agua y Suelo",
+            "Legislación Ambiental",
+            "Gestión de Residuos y Reciclaje",
+            "Proyecto de Salud y Ambiente"
+        ]
+    },
+    {
+        nombre: "Técnico en Tecnología de los Alimentos",
+        materias: [
+          "Química de los Alimentos",
+          "Microbiología de Alimentos",
+          "Tecnología de Alimentos Lácteos",
+          "Tecnología de Carnes y Derivados",
+          "Tecnología de Frutas y Vegetales",
+          "Tecnología de Alimentos Cereales y Panadería",
+          "Control de Calidad de Alimentos",
+          "Legislación Alimentaria",
+          "Ingeniería de Procesos Alimentarios",
+          "Proyecto de Tecnología de los Alimentos"
+        ]
+      },
+      {
+        nombre: "Técnico en Mecanización Agopecuaria",
+        materias: [
+          "Mecánica Agropecuaria",
+          "Máquinas Agrícolas",
+          "Tecnología de Siembra",
+          "Tecnología de Cosecha",
+          "Tractores y Equipos",
+          "Mantenimiento de Maquinaria",
+          "Automatización Agrícola",
+          "Gestión de Recursos Agropecuarios",
+          "Tecnología de Riego",
+          "Proyecto de Mecanización Agropecuaria"
+        ]
+      },
+      {
+        nombre: "Técnico Químico",
+        materias: [
+          "Química General",
+          "Química Orgánica",
+          "Química Analítica",
+          "Fisicoquímica",
+          "Bioquímica",
+          "Química Inorgánica",
+          "Química Industrial",
+          "Análisis Instrumental",
+          "Termodinámica Química",
+          "Proyecto de Investigación Química"
+        ]
+      },
+      {
+        nombre: "Técnico en Automotores",
+        materias: [
+          "Mecánica Básica de Automotores",
+          "Sistemas de Transmisión",
+          "Sistemas de Frenado",
+          "Electricidad Automotriz",
+          "Electrónica de Vehículos",
+          "Inyección Electrónica",
+          "Diagnóstico y Reparación de Fallas",
+          "Mantenimiento Preventivo",
+          "Gestión de Talleres Automotrices",
+          "Proyecto de Automotores"
+        ]
+      },
+      {
+        nombre: "Técnico en Electrónica",
+        materias: [
+          "Fundamentos de Electrónica",
+          "Circuitos Digitales",
+          "Sistemas de Comunicación",
+          "Microcontroladores",
+          "Electrónica de Potencia",
+          "Instrumentación Electrónica",
+          "Programación de PLCs",
+          "Diseño de Circuitos Impresos",
+          "Robótica Industrial",
+          "Proyecto de Electrónica Aplicada"
+        ]
+      },
+      {
+        nombre: "Técnico en Producción Agropecuaria",
+        materias: [
+          "Manejo de Suelos Agrícolas",
+          "Producción de Cultivos Agrícolas",
+          "Sanidad Vegetal",
+          "Gestión de Recursos Hídricos",
+          "Producción Ganadera",
+          "Nutrición Animal",
+          "Agroindustria",
+          "Tecnología Agrícola",
+          "Economía Agropecuaria",
+          "Proyecto Agropecuario Integrado"
+        ]
+      },
+      {
+        nombre: "Técnico en Informática Profesional y Personal",
+        materias: [
+          "Programación",
+          "Sistemas Operativos",
+          "Bases de Datos",
+          "Redes de Computadoras",
+          "Diseño Web",
+          "Inglés Técnico",
+          "Gestión de Proyectos",
+          "Seguridad Informática",
+          "Inteligencia Artificial",
+          "Ética y Profesionalismo en Informática"
+        ]
+      }
+]
